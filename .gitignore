@@ -1,0 +1,5 @@
+# Ignore all below files
+.venv/*
+classes.pkl
+words.pkl
+Project_Jarvis.h5
