@@ -14,9 +14,10 @@ This is a simple chatbot project that utilizes a neural network and NLTK (Natura
 
    ```bash
    python training.py
+   ```
 2.**Using the Chatbot**: After training the model, run the following command to start interacting with the chatbot.
-  python chatbot.py
-  
+```bash
+  python chatbot.py 
   ```
 # Requirements
 - Python 3.x
